@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 
 ## Project Info
 
-**URL**: [View Live Project](https://lovable.dev/projects/a66e31e6-760a-4f3f-96ab-b0a4d14ce578)
+**URL**: [View Live Project]()
 
 This portfolio showcases my skills in UI/UX design, frontend development, and software projects.
 
@@ -32,3 +32,11 @@ You can edit and run this project locally using your preferred IDE or Lovable.
 git clone https://github.com/marryamabid/marryam-portfolio.git
 cd marryam-portfolio
 ```
+
+2. Install dependencies
+   npm install
+
+3. Start the development server
+   npm run dev
+
+Open your browser to the provided localhost URL to preview changes.
