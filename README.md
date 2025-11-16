@@ -34,9 +34,15 @@ cd marryam-portfolio
 ```
 
 2. Install dependencies
+
+```bash
    npm install
+```
 
 3. Start the development server
+
+```bash
    npm run dev
+```
 
 Open your browser to the provided localhost URL to preview changes.
