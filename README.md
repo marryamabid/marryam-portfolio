@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 
 ## Project Info
 
-**URL**: [View Live Project]("https://marryam-portfolio.vercel.app/")
+**URL**: [View Live Project](https://marryam-portfolio.vercel.app/)
 
 This portfolio showcases my skills in UI/UX design, frontend development, and software projects.
 
